@@ -1,2 +1,3 @@
 # herb-seedlings
-Herbivory and nutrient status of experimental hardwoods seedlings
+Herbivory and nutrient status of experimental hardwood seedlings
+(More soon)
