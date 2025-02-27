@@ -1,0 +1,12 @@
+variable,species,estimate,se,group,sign
+Planting Site (Elevation),American beech,-0.15,0.06,y,n
+Browse,American beech,0.22,0.38,n,p
+Browse x Elevation,American beech,0.08,0.28,n,p
+Foliar Herbivory,American beech,0.07,0.08,n,p
+Foliar Herbivory x Elevation,American beech,-0.11,0.16,n,n
+N,American beech,0.11,0.1,y,p
+P,American beech,0.01,0.04,n,p
+K,American beech,0.12,0.09,y,p
+Ca,American beech,0.06,0.11,n,p
+Mg,American beech,0.11,0.07,y,p
+Al,American beech,-0.01,0.07,n,n

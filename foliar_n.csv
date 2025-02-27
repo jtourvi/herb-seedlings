@@ -1,0 +1,37 @@
+site,species,nutrient,soil_name,mean_n,mean_nse,mean_s,mean_sse,scaled_s,scaled_sse
+Hardwoods,American beech,Al (mg/kg),Soil Al (mg/kg),84,6,NA,NA,NA,NA
+Ecotone,American beech,Al (mg/kg),Soil Al (mg/kg),55,10,NA,NA,NA,NA
+Spruce-fir,American beech,Al (mg/kg),Soil Al (mg/kg),30,7,NA,NA,NA,NA
+Hardwoods,American beech,Ca (%),Soil Ca (mg/kg),0.81,0.015,NA,NA,NA,NA
+Ecotone,American beech,Ca (%),Soil Ca (mg/kg),0.85,0.015,NA,NA,NA,NA
+Spruce-fir,American beech,Ca (%),Soil Ca (mg/kg),0.81,0.015,NA,NA,NA,NA
+Hardwoods,American beech,K (%),Soil K (mg/kg),0.84,0.02,NA,NA,NA,NA
+Ecotone,American beech,K (%),Soil K (mg/kg),0.74,0.04,NA,NA,NA,NA
+Spruce-fir,American beech,K (%),Soil K (mg/kg),0.72,0.02,NA,NA,NA,NA
+Hardwoods,American beech,Mg (%),Soil Mg (mg/kg),0.275,0.01,NA,NA,NA,NA
+Ecotone,American beech,Mg (%),Soil Mg (mg/kg),0.23,0.02,NA,NA,NA,NA
+Spruce-fir,American beech,Mg (%),Soil Mg (mg/kg),0.233,0.01,NA,NA,NA,NA
+Hardwoods,American beech,N (%),NA,2.28,0.03,NA,NA,NA,NA
+Ecotone,American beech,N (%),NA,2.21,0.04,NA,NA,NA,NA
+Spruce-fir,American beech,N (%),NA,2.12,0.04,NA,NA,NA,NA
+Hardwoods,American beech,P (%),Soil P (mg/kg),0.171,0.008,NA,NA,NA,NA
+Ecotone,American beech,P (%),Soil P (mg/kg),0.184,0.01,NA,NA,NA,NA
+Spruce-fir,American beech,P (%),Soil P (mg/kg),0.196,0.01,NA,NA,NA,NA
+Hardwoods,Sugar maple,Al (mg/kg),Soil Al (mg/kg),85,8,124,24.7,124,24.7
+Ecotone,Sugar maple,Al (mg/kg),Soil Al (mg/kg),86,6,136,17.7,136,17.7
+Spruce-fir,Sugar maple,Al (mg/kg),Soil Al (mg/kg),121,11,173,25.3,173,25.3
+Hardwoods,Sugar maple,Ca (%),Soil Ca (mg/kg),0.88,0.03,431,118,0.431,0.118
+Ecotone,Sugar maple,Ca (%),Soil Ca (mg/kg),0.61,0.02,288,63.2,0.288,0.0632
+Spruce-fir,Sugar maple,Ca (%),Soil Ca (mg/kg),0.65,0.02,152,13.5,0.152,0.0135
+Hardwoods,Sugar maple,K (%),Soil K (mg/kg),0.86,0.02,78.7,6.72,0.787,0.0672
+Ecotone,Sugar maple,K (%),Soil K (mg/kg),0.69,0.04,74.4,5.26,0.744,0.0526
+Spruce-fir,Sugar maple,K (%),Soil K (mg/kg),0.65,0.04,79.5,4.17,0.795,0.0417
+Hardwoods,Sugar maple,Mg (%),Soil Mg (mg/kg),0.255,0.02,63,10.4,0.63,0.104
+Ecotone,Sugar maple,Mg (%),Soil Mg (mg/kg),0.21,0.02,59.9,7.53,0.599,0.0753
+Spruce-fir,Sugar maple,Mg (%),Soil Mg (mg/kg),0.19,0.015,46.6,2.82,0.466,0.0282
+Hardwoods,Sugar maple,N (%),NA,1.99,0.02,NA,NA,NA,NA
+Ecotone,Sugar maple,N (%),NA,1.93,0.03,NA,NA,NA,NA
+Spruce-fir,Sugar maple,N (%),NA,1.91,0.04,NA,NA,NA,NA
+Hardwoods,Sugar maple,P (%),Soil P (mg/kg),0.158,0.007,2.76,0.5,0.276,0.05
+Ecotone,Sugar maple,P (%),Soil P (mg/kg),0.183,0.008,5.26,1.34,0.526,0.134
+Spruce-fir,Sugar maple,P (%),Soil P (mg/kg),0.15,0.01,2.44,0.87,0.244,0.087

@@ -1,0 +1,12 @@
+variable,species,estimate,se,group,sign
+Planting Site (Elevation),Sugar maple,-0.19,0.05,y,n
+Browse,Sugar maple,-0.06,0.08,n,n
+Browse x Elevation,Sugar maple,-0.001,0.07,n,n
+Foliar Herbivory,Sugar maple,-0.16,0.17,n,n
+Foliar Herbivory x Elevation,Sugar maple,-0.17,0.18,n,n
+N,Sugar maple,0.06,0.08,n,p
+P,Sugar maple,-0.02,0.04,n,n
+K,Sugar maple,0.15,0.16,n,p
+Ca,Sugar maple,0.21,0.13,y,p
+Mg,Sugar maple,0.2,0.12,y,p
+Al,Sugar maple,-0.21,0.15,y,n

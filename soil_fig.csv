@@ -1,0 +1,19 @@
+site,soil_name,mean_n,mean_nse
+Hardwoods,Al (mg/kg),124,24.7
+Ecotone,Al (mg/kg),136,17.7
+Spruce-fir,Al (mg/kg),173,20.3
+Hardwoods,Ca (mg/kg),431,78
+Ecotone,Ca (mg/kg),288,53.2
+Spruce-fir,Ca (mg/kg),152,13.5
+Hardwoods,K (mg/kg),78.7,6.72
+Ecotone,K (mg/kg),74.4,5.26
+Spruce-fir,K (mg/kg),79.5,4.17
+Hardwoods,Mg (mg/kg),63,10.4
+Ecotone,Mg (mg/kg),59.9,8.53
+Spruce-fir,Mg (mg/kg),46.6,3.82
+Hardwoods,pH,4.4,0.13
+Ecotone,pH,4.09,0.09
+Spruce-fir,pH,3.74,0.09
+Hardwoods,P (mg/kg),2.76,0.5
+Ecotone,P (mg/kg),5.26,1.34
+Spruce-fir,P (mg/kg),2.44,0.87
